@@ -8,13 +8,13 @@ Si ya tienes instalado visual studio 2022 abre **Visual Studio Installer** para 
 
 1. Visita la [página oficial](https://visualstudio.microsoft.com/es/downloads/) y descarga el instalador.
    
-![Descargar instalador](pictures/visualinstaller.png)
+![Descargar instalador](https://github.com/B3rert/Cursos/blob/master/.NET%20CORE/pictures/visualinstaller.png)
 
 2. Ejecuta el programa que se acaba de descargar. Si ya tienes instalado **Visual Studio 2022** presiona **Modificar**. Si es la primera instalación presiona instalar.
 
 3. A continuación verifica que la opción **Desarrollo de ASP.NET y web** esté marcada e inicia la instalación.
 
-![Configurar .NET CORE](pictures/configuracionvisual.png)
+![Configurar .NET CORE](https://github.com/B3rert/Cursos/blob/master/.NET%20CORE/pictures/configuracionvisual.png)
 
 ## Post Man
 
@@ -22,7 +22,7 @@ Si ya tienes instalado visual studio 2022 abre **Visual Studio Installer** para 
 
 1.  Visita la [página oficial](https://www.postman.com/downloads/) y descarga el instalador.
 
-![Descargar instalador](pictures/postmaninstaller.png)
+![Descargar instalador](https://github.com/B3rert/Cursos/blob/master/.NET%20CORE/pictures/postmaninstaller.png)
 
 2. Una vez descaragado el instalador, ejecutalo y sigue los pasos para finalizar la instalación.
 
@@ -30,6 +30,6 @@ Si ya tienes instalado visual studio 2022 abre **Visual Studio Installer** para 
 
 1.  Visita la [página oficial](https://www.microsoft.com/es-es/sql-server/sql-server-downloads) y descarga el instalador.
 
-![Descargar instalador](pictures/sqlinstaller.png)
+![Descargar instalador](https://github.com/B3rert/Cursos/blob/master/.NET%20CORE/pictures/sqlinstaller.png)
 
 2. Una vez descaragado el instalador, ejecutalo y sigue los pasos para finalizar la instalación.
